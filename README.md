@@ -1,4 +1,4 @@
-# CS211 Assignment - Simulate Caches
+# CS211 Spring 2017 Computer Architecture - Simulate Caches
 This C program emulates the function of a cache. The cache size, associativity type, and block size are the parameters given to the program along with a text file that contains instructions for the cache, which consist of read/write operations followed by memory addresses. The purpose of this program is to solely simulate memory read/writes and hit/misses, and does not actually the moving of memory into blocks. 
 
 # Cache Operations
